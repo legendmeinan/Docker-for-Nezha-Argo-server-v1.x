@@ -21,3 +21,4 @@ EXPOSE $PORT
 ENTRYPOINT ["/dashboard/entrypoint.sh"]
 
 
+
