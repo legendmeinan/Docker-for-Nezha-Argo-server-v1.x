@@ -123,4 +123,4 @@ ENTRYPOINT [ "/bin/bash", "-c", "/entrypoint.sh" ]
 
 ENV USER ubuntu
 ENV PASSWD ubuntu
-EXPOSE 6080
+EXPOSE 80
